@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+---
+<img align = "left" alt = "muhdhisham ' s Github Stat's src="https://github-readme-stats.vercel.app/api?username=muhdhisham&show_icon=true&hide_border=true"/>
 <!--
 **muhdhisham/muhdhisham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
