@@ -3,13 +3,10 @@
 </style>  -->
 ### Hi there... 👋
 ## I'm [Muhammed Hisham](https://muhdhisham.netlify.app)😎
-<<<<<<< HEAD
+<br/>
 <!-- <a href="https://instagram.com/__the_protagonist">
-=======
-
 <a href="https://instagram.com/__the_protagonist">
->>>>>>> 2ee4661b1370b959eb322ff5e13f56374f743051
-  <img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />
+  <img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" /> --> 
 <!-- </a>&nbsp;&nbsp; -->
 <a href="https://linkedin.com/in/muhdhishamv">
   <img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
@@ -17,7 +14,7 @@
 <a href="https://facebook.com/muhdhishamv">
   <img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" />
   </a>&nbsp;&nbsp;
-  <br>
+  <br/><br/>
 
 ![Hisham](https://komarev.com/ghpvc/?username=muhdhisham&color=green&style=flat&label=PROFILE+VIEWS) <a href="mailto:muhdhisham034@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat" /> <a href="instagram.com/__the_protagonist"><img src="https://img.shields.io/badge/@__the_protagonist%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white&style=flat"/></a>
 </a>
