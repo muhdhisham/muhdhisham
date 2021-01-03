@@ -1,13 +1,6 @@
-<!-- <style>
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&family=Schoolbell&display=swap');
-</style>  -->
 ### Hi there... 👋
 ## I'm [Muhammed Hisham](https://muhdhisham.netlify.app)😎
 <br/>
-<!-- <a href="https://instagram.com/__the_protagonist">
-<a href="https://instagram.com/__the_protagonist">
-  <img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" /> --> 
-<!-- </a>&nbsp;&nbsp; -->
 <a href="https://linkedin.com/in/muhdhishamv">
   <img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
 </a>&nbsp;&nbsp;
@@ -16,7 +9,7 @@
   </a>&nbsp;&nbsp;
   <br/><br/>
 
-![Hisham](https://komarev.com/ghpvc/?username=muhdhisham&color=green&style=flat&label=PROFILE+VIEWS) <a href="mailto:muhdhisham034@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat" /> <a href="instagram.com/__the_protagonist"><img src="https://img.shields.io/badge/@__the_protagonist%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white&style=flat"/></a>
+![Hisham](https://komarev.com/ghpvc/?username=muhdhisham&color=green&style=flat&label=PROFILE+VIEWS) <a href="mailto:muhdhisham034@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat" /> <a href="https://instagram.com/__the_protagonist"><img src="https://img.shields.io/badge/@__the_protagonist%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white&style=flat"/></a>
 </a>
 
 ---
