@@ -1,10 +1,8 @@
 <!-- <style>
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&family=Schoolbell&display=swap');
 </style>  -->
-### <span src="" style="font-family: 'Schoolbell';">Hi there... 👋</span>
-## <span src="" style="font-family: 'Roboto Slab';">I'm [Muhammed Hisham](https://muhdhisham.netlify.app)😎</span> 
-
----
+### Hi there... 👋
+## I'm [Muhammed Hisham](https://muhdhisham.netlify.app)😎
 
 <a href="https://instagram.com/__the_protagonist">
   <img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />
