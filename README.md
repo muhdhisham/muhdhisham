@@ -13,9 +13,9 @@
 ---
 
 
-> [![Hisham's github stats](https://github-readme-stats.vercel.app/api?username=muhdhisham&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-> <br>
-> <a href="https://github.com/muhdhisham/Get-It-Done-TODO-App"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhdhisham&theme=nightowl&repo=Get-It-Done-TODO-App" /></a>
+[![Hisham's github stats](https://github-readme-stats.vercel.app/api?username=muhdhisham&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+ <br>
+ <a href="https://github.com/muhdhisham/Get-It-Done-TODO-App"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhdhisham&theme=nightowl&repo=Get-It-Done-TODO-App" /></a>
 ---
 ## <u> **Languages and Tools:** </u>
 
