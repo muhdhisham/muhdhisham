@@ -10,13 +10,20 @@
 <a href="https://muhdhisham.netlify.app/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
 
 
----
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muhdhisham&show_icons=true&include_all_commits=true&theme=yeblu&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhdhisham&layout=compact&theme=yeblu&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
 
 
-[![Hisham's github stats](https://github-readme-stats.vercel.app/api?username=muhdhisham&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
- <br>
- <a href="https://github.com/muhdhisham/Get-It-Done-TODO-App"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhdhisham&theme=nightowl&repo=Get-It-Done-TODO-App" /></a>
----
+<a href="https://github.com/muhdhisham/Get-It-Done-TODO-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhdhisham&repo=Get-It-Done-TODO-App&theme=yeblu" />
+</a>
+<a href="https://github.com/muhdhisham/MyPortfolioWebsite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhdhisham&repo=MyPortfolioWebsite&theme=yeblu" />
+</a>
+
 ## <u> **Languages and Tools:** </u>
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;&nbsp;
