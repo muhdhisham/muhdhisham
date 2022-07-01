@@ -11,17 +11,17 @@
 
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muhdhisham&show_icons=true&include_all_commits=true&theme=yeblu&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhdhisham&layout=compact&theme=yeblu&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muhdhisham&show_icons=true&include_all_commits=true&theme=merko&hide_border=false" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhdhisham&layout=compact&theme=merko&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
 
 <a href="https://github.com/muhdhisham/Get-It-Done-TODO-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhdhisham&repo=Get-It-Done-TODO-App&theme=yeblu" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhdhisham&repo=Get-It-Done-TODO-App&theme=merko" />
 </a>
 <a href="https://github.com/muhdhisham/MyPortfolioWebsite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhdhisham&repo=MyPortfolioWebsite&theme=yeblu" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhdhisham&repo=MyPortfolioWebsite&theme=merko" />
 </a>
 
 ## <u> **Languages and Tools:** </u>
