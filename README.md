@@ -14,6 +14,8 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muhdhisham&show_icons=true&include_all_commits=true&theme=merko&hide_border=false" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhdhisham&layout=compact&theme=merko&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+
+
 #### Top Repositories
 
 
@@ -23,6 +25,9 @@
 <a href="https://github.com/muhdhisham/MyPortfolioWebsite">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhdhisham&repo=MyPortfolioWebsite&theme=merko" />
 </a>
+<br/></br>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=muhdhisham&theme=dark" />
 
 ## <u> **Languages and Tools:** </u>
 
